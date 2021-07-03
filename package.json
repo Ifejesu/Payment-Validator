@@ -1,0 +1,19 @@
+{
+  "name": "payment-validator",
+  "version": "1.0.0",
+  "description": "API to validate payment information and charge amount",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ifejesu/payment-validator.git"
+  },
+  "author": "ifejesugoodness97@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ifejesu/payment-validator/issues"
+  },
+  "homepage": "https://github.com/Ifejesu/payment-validator#readme"
+}
